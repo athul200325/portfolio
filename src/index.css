@@ -6,5 +6,8 @@
 body{
     background-color: rgb(26, 26, 26);
     font-family: "Ubuntu", serif;
+    background-image: url('assets/wall-2.png');
+    background-size: cover;
+    background-position: no-repeat;
 
 }
